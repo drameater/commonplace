@@ -27,6 +27,8 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 - [ACM Digital Library](https://dl.acm.org/) • Peer-reviewed CS research and publications from the Association for Computing Machinery.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) • The authoritative reference for HTML, CSS, JavaScript, and Web APIs, maintained by Mozilla and other browser vendors.
 - [W3Schools](https://www.w3schools.com/) • Beginner-friendly web technology reference and tutorials.
+- [Component Gallery](https://component.gallery/) • Reference collection of interface design components and common UI patterns.
+- [Mockdown](https://www.mockdown.design/) • Browser-based tool for creating quick UI mockups using Markdown-like syntax.
 - [SS64](https://ss64.com/) • Command-line reference for Bash, PowerShell, CMD, and more.
 - [Beej's Guides](https://beej.us/guide/) • Free, plain-language guides covering network programming, C, IPC, and more.
 - [Unicode Confusables](https://util.unicode.org/UnicodeJsps/confusables.jsp) • Look up visually similar Unicode characters (relevant to both internationalization and security).
@@ -35,6 +37,7 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 ### Learning & Roadmaps
 
 - [roadmap.sh](https://roadmap.sh/) • Community-maintained learning roadmaps for various CS and engineering disciplines.
+- [Security Titles](https://securitytitles.com/) • Reference of cybersecurity job titles, roles, and career progression paths.
 - [Wizard Zines Comics](https://wizardzines.com/comics/) • Illustrated explainers on Linux, networking, and programming concepts by Julia Evans.
 - [IBM Think: Prompt Engineering](https://www.ibm.com/think/prompt-engineering) • Practical introduction to prompting LLMs effectively.
 - [PAIR Explorables](https://pair.withgoogle.com/explorables/) • Interactive essays on machine learning concepts from Google's People + AI Research team.
@@ -45,6 +48,7 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 - [Dangit, Git!](https://dangitgit.com/) • Plain-English fixes for common Git mistakes.
   - *(See also: [Oh Shit, Git!?](https://ohshitgit.com/); same content, no filter)*
 - [Coding Fonts](https://coding-fonts.pages.dev/) • Interactive preview of popular programming and terminal fonts.
+- [Nerd Fonts](https://www.nerdfonts.com/) • Patched developer fonts aggregating icons from Font Awesome, Devicons, Octicons, and more.
 - [OKLCH Color Picker](https://oklch.net/) • Color picker using the perceptually uniform OKLCH color space.
 
 ### Interesting Reading
@@ -52,6 +56,8 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 - [Making Software](https://www.makingsoftware.com/) • An in-progress illustrated book explaining how everyday software internals actually work (touchscreens, Gaussian blur, Bézier curves, etc.).
 - [Bret Victor's Reading List](https://worrydream.com/refs/) • Bret Victor's personal bibliography: papers and essays that shaped his thinking on programming, education, and interfaces.
 - [Bret Victor Refs (Searchable Mirror)](https://bret-victor-refs.vercel.app/) • An alternate presentation of the above.
+- [Anthropic Engineering Blog](https://www.anthropic.com/engineering) • Technical deep dives from Anthropic's engineering team on building and scaling Claude.
+- [OpenAI Engineering Blog](https://openai.com/news/engineering/) • Engineering stories and technical details from OpenAI on infrastructure, models, and tooling.
 
 ---
 
@@ -62,6 +68,7 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 - [Cloudflare Learning Center](https://www.cloudflare.com/learning/) • Accessible explanations of networking and security fundamentals.
 - [Hack The Box Academy](https://academy.hackthebox.com/) • Structured, hands-on cybersecurity training with lab environments.
 - [Guided Hacking: Malware Analysis Tutorials](https://guidedhacking.com/forums/malware-analysis-tutorials.525/) • Community forums and tutorials focused on malware analysis and reverse engineering.
+- [FLARE Learning Hub](https://github.com/mandiant/flare-learning-hub) • Mandiant FLARE team's curated reverse engineering and malware analysis training materials.
 - [Trace Labs](https://www.tracelabs.org/) • Crowdsourced OSINT CTF platform used to locate missing persons.
 - [UC Berkeley CS 161 Textbook](https://textbook.cs161.org/) • Free, open-access computer security textbook from Berkeley's intro security course.
 - [OpenSecurityTraining2: C Vulnerabilities](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+SecDev1001_C_vulns+2024_v1/about) • In-depth course on C-language vulnerability classes (memory corruption, etc.).
@@ -85,6 +92,7 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 - [x86re](https://x86re.com/) • x86 reverse engineering reference and resources.
 - [eBPF Party](https://ebpf.party/) • Resources and links for learning eBPF (Linux kernel observability and security).
 - [SOC Chef](https://mr-r3b00t.github.io/soc_chef/) • Reference templates for organizational security policies, processes and procedures.
+- [Awesome OSINT](https://github.com/Astrosp/Awesome-OSINT-For-Everything) • Comprehensive collection of OSINT tools and resources organized by category.
 
 ### Research & Reporting
 
@@ -94,6 +102,8 @@ A collection of links to useful or interesting compsci/cybersecurity tools and r
 - [Unit 42 Blog](https://unit42.paloaltonetworks.com/) • Palo Alto Networks' threat research arm, covering malware analysis, campaign breakdowns, and incident response trends.
 - [Krebs on Security](https://krebsonsecurity.com/) • Investigative journalism on cybercrime, breaches, and fraud.
 - [Schneier on Security](https://www.schneier.com/) • Long-running blog covering security policy, cryptography, and the broader implications of technology.
+- [Anthropic Red Teaming](https://red.anthropic.com/) • Anthropic's hub for AI red teaming resources, methodologies, and findings.
+- [OpenAI Red Teaming Network](https://openai.com/index/red-teaming-network/) • OpenAI's external red teaming program for adversarial evaluation of frontier AI models.
 - [CrowdStrike Global Threat Report](https://www.crowdstrike.com/en-us/global-threat-report/) • Annual adversary trends and cybercrime statistics.
 
 ### Cryptography
